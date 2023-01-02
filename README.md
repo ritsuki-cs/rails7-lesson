@@ -1,24 +1,25 @@
-# README
+# ミニQ&Aサービスの開発
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 開発を通した目標
+- CRUDアプリケーション開発の基礎を学習
+  - Create ... 作成
+  - Read ... 表示
+  - Update ... 更新
+  - Delete ... 削除
+- アプリ開発の流れを体験
 
-Things you may want to cover:
+## ストーリー
+- ユーザーが、
+  - 質問を投稿できる
+  - 質問を編集できる
+  - 質問を削除できる
+  - 質問に回答できる
+  - 質問一覧を確認できる
+  - 回答を編集できる
+  - 回答を削除できる
+  - 回答一覧を表示できる
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 制限事項
+- ユーザー認証は行わない
+- ユーザーは他人の投稿を編集しない運用
+- デザイン（スタイル）は考慮しない
